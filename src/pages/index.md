@@ -1,10 +1,11 @@
 ---
 templateKey: home-page
 title: FuseBox Cornwall
-heading: Lorem ipsum dolor sit amet
+heading: Services we offer
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Here are a few of the things we can turn our hands to. To be honest, a lot of
+  our jobs don't fit neatly into any one of these categories - so if you're not
+  sure just get in touch and have a chat about what you need help with.
 offerings:
   blurbs:
     - image: /img/coffee.png
